@@ -1,0 +1,11 @@
+{
+  "weights": "D:\\code\\pingpongtrack\\models\\blurball_pretrained.pt",
+  "onnx": "D:\\code\\pingpongtrack\\models\\detector.onnx",
+  "shape": [
+    1,
+    3,
+    288,
+    512
+  ],
+  "max_abs_error": 1.71661376953125e-05
+}

@@ -1,0 +1,20 @@
+{
+  "detector": "BlurBall",
+  "upstream_repository": "https://github.com/cogsys-tuebingen/blurball",
+  "upstream_commit": "2f0f5496f7ba4b5b1a36790749935121b2ce972d",
+  "upstream_checkpoint": "blurball_best",
+  "input": "RGB ImageNet normalized, three consecutive frames, 1x9x288x512",
+  "output": "Three ball heatmaps as logits, 1x3x288x512",
+  "deployment": "ONNX opset 17, DirectML with CPU fallback",
+  "weight_selection": "Original retained as general preset: the OpenTTGames fine-tune improved new-data tests but regressed original-scene holdout",
+  "events": "Unconfirmed 2D trajectory direction-change candidates; not a learned bounce model",
+  "onnx_sha256": "9fab249cefea126b6ba0c23e5ead92b4c852962f46f3ba1312ed7c78def4c04a",
+  "alternate_model": {
+    "file": "detector_extended.onnx",
+    "profile": "OpenTTGames side-view fine-tune",
+    "recommended_threshold": 0.3,
+    "training_run": "extended-transfer-2026-11-06-152847",
+    "license": "CC BY-NC-SA 4.0 dataset; see accompanying attribution",
+    "onnx_sha256": "6f95ee76b60ec1e33564b0970e7a50b2e36b8458066a2fd77168f6812e91ab34"
+  }
+}

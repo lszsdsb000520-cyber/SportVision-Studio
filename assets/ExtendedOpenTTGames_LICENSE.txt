@@ -1,0 +1,5 @@
+This dataset comes "as is", without express or implied warranty. The Extended OpenTTGames Dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Source: https://github.com/moamal01/table_tennis_data
+Original videos and ball annotations: https://lab.osai.ai/
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,0 +1,36 @@
+{
+  "weights": "runs\\extended-transfer-2026-11-06-152847\\best.pt",
+  "onnx": "runs\\extended-transfer-2026-11-06-152847\\export\\detector_extended.onnx",
+  "shape": [
+    1,
+    3,
+    288,
+    512
+  ],
+  "numerical_checks": [
+    {
+      "max_absolute": 8.642673492431641e-07,
+      "max_relative": 7.964237011037767e-05
+    },
+    {
+      "max_absolute": 9.5367431640625e-07,
+      "max_relative": 7.821151666576043e-05
+    },
+    {
+      "max_absolute": 1.0728836059570312e-06,
+      "max_relative": 7.274800009327009e-05
+    },
+    {
+      "max_absolute": 1.7881393432617188e-06,
+      "max_relative": 7.426778029184788e-05
+    }
+  ],
+  "max_relative_error": 7.964237011037767e-05,
+  "max_absolute_error": 1.7881393432617188e-06,
+  "threshold": 0.3,
+  "activation": "sigmoid",
+  "probability_floor": 0.001,
+  "provider": "CPUExecutionProvider",
+  "onnx_sha256": "6f95ee76b60ec1e33564b0970e7a50b2e36b8458066a2fd77168f6812e91ab34",
+  "preprocessing": "BGR decoded frames; bilinear resize512x288; RGB; ImageNet; NCHW concatenated 3frames"
+}

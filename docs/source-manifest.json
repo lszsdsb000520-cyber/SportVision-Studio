@@ -1,0 +1,714 @@
+[
+  {
+    "path": "pingpong/analysis.py",
+    "sha256": "e9f93a16d63d339d6d46084942f1d3fe44a5d472cf5dacc4cb5cc70fdc69f61d"
+  },
+  {
+    "path": "pingpong/annotations.py",
+    "sha256": "6c98189cf0bbc3a02a5ded77731c0ba055664d2ecdac2a8a1625bf8bcdffe723"
+  },
+  {
+    "path": "pingpong/boundary.py",
+    "sha256": "d5687188b77593fa9214646d1ffd35efdbb548397109c3921cb841ce14dabdf2"
+  },
+  {
+    "path": "pingpong/camera.py",
+    "sha256": "3754cb00db7c13422c8134a667a556b51cfa28e8f21a6fd0040f48cc90fc3cbd"
+  },
+  {
+    "path": "pingpong/cancellation.py",
+    "sha256": "f7e52991de297e8b1ebaf55b0ac7924b0a8c0f7dcb2be93c13a48fa3294fefeb"
+  },
+  {
+    "path": "pingpong/detector.py",
+    "sha256": "09b62599e1a8af228291cc1c00b8977512d1021bf80d495153595c7c21d890a6"
+  },
+  {
+    "path": "pingpong/distribution_export.py",
+    "sha256": "5124a5d2c9d35f5bc8299f5b00c928c1d4bbaed18821ee2c1c934dd9faa03591"
+  },
+  {
+    "path": "pingpong/events.py",
+    "sha256": "4c63c86333a7c890a788ff1810cf5a747e8f3773530aeac4c9873ab1a982e9b5"
+  },
+  {
+    "path": "pingpong/fast_input.py",
+    "sha256": "f00cb07e218a8ad71dcabf2cb5b1e1c91df1d3b65f4dce2b1c77846ca1a10f98"
+  },
+  {
+    "path": "pingpong/gpu.py",
+    "sha256": "5ed2a378cc98a93825f8b9cf9e7787df921611a2d2ff182ed8e585c01c92cfb4"
+  },
+  {
+    "path": "pingpong/label_layout.py",
+    "sha256": "6433a77bdbbe695c7e13a89816b370e6391b1e8999824033ba2ac44bee84348f"
+  },
+  {
+    "path": "pingpong/library.py",
+    "sha256": "aff3d13ff3a96c97c6cfa262e92187fa7123d8c7e9f804b281660c95de223a60"
+  },
+  {
+    "path": "pingpong/live.py",
+    "sha256": "4af11284280a9122f9c2b83c42a69e2da23b2f7b3502ce7ee5131f2ca01e37e3"
+  },
+  {
+    "path": "pingpong/live_ui.py",
+    "sha256": "a73b2ef86a5787e7a2f4af00b4bbcce3188e199287e4ff64450a0d4ee79537b0"
+  },
+  {
+    "path": "pingpong/media.py",
+    "sha256": "8dfb318f6f4ae6d2df9c0c8bc9f9265f3236c789f94b84c84e1befb846219d44"
+  },
+  {
+    "path": "pingpong/model.py",
+    "sha256": "606c8ddef62328a2498fd88d79c0dd5914a0be5f0ca33e28c991bc734a6bedad"
+  },
+  {
+    "path": "pingpong/motion.py",
+    "sha256": "0a9a57124350251f599e38c9a2d6f5006ee9e331c01b9b09f845057d53338caf"
+  },
+  {
+    "path": "pingpong/paths.py",
+    "sha256": "df7c1d36ce2b25e5447d987041735a8a55e528b73f2bc41b8000bcc9b6d90e17"
+  },
+  {
+    "path": "pingpong/playback.py",
+    "sha256": "04eee5bcedf65de737be017b1da8d638c7d4dbe7317d0da6c27eb3d7e815718e"
+  },
+  {
+    "path": "pingpong/point_map.py",
+    "sha256": "30f5c4321f3fdde5a4e95ed49224c87484f5140a05b28becdfaed27fa519bee2"
+  },
+  {
+    "path": "pingpong/review_dialogs.py",
+    "sha256": "f65f0ee762e280093cb109f1781eee62698ef3b66daf3080c060c52e58e1a4d5"
+  },
+  {
+    "path": "pingpong/review_state.py",
+    "sha256": "e186e173cad1f0116377996f2cfb2794ddb5161f8c2cefff98361efd6065b56d"
+  },
+  {
+    "path": "pingpong/selftest.py",
+    "sha256": "13a505647deba42b49c889e3907ee37c710b78590b23979ff3c2e8e2fe2a7a01"
+  },
+  {
+    "path": "pingpong/ui.py",
+    "sha256": "1833cd1e68e1d3508831443a0a978840204970236d33fe692a0b144e73b2b4c7"
+  },
+  {
+    "path": "pingpong/video_io.py",
+    "sha256": "81b07f4cae331a37807fe44a1e53dd27511f5f92906660c5fb211b526dad8d63"
+  },
+  {
+    "path": "pingpong/__init__.py",
+    "sha256": "6f3b853c267196c8b754efdf1f5dc66b6bd59c0262386e19a429bc46f9a904b3"
+  },
+  {
+    "path": "pingpong/vendor/blurball.py",
+    "sha256": "e5dbaf53f5ce146526a04325c0d35d1bf337b89f675a9806bab59a002a6ded43"
+  },
+  {
+    "path": "pingpong/vendor/BLURBALL_LICENSE.md",
+    "sha256": "92cdd65f99330008e488ccbf04ae83004e80ded375df2206b9db0ac5bd84caee"
+  },
+  {
+    "path": "pingpong/vendor/TT3D_LICENSE.txt",
+    "sha256": "2999dadcbdb2bdf89b0ea3a8684a29662fa75ddc14f7d871ef33e464077c7053"
+  },
+  {
+    "path": "pingpong/vendor/__init__.py",
+    "sha256": "49779d1e71b0760c6fd250180fd5fdc1f7ba5055a8752442d81b043a39fc5339"
+  },
+  {
+    "path": "tests/test_analysis.py",
+    "sha256": "89a7712b48ef1afeb00639b97e404f4a327aa26e540ef78cbe0084cd2ba07446"
+  },
+  {
+    "path": "tests/test_annotations.py",
+    "sha256": "bebc726fbfb02d8913b141e11aca03239bcfb064cd5ffcf0d180a53ced64a839"
+  },
+  {
+    "path": "tests/test_boundary.py",
+    "sha256": "f9521484929eed8d8b743825da33b08deeec5b3d5d9c70e60773a935f36286bd"
+  },
+  {
+    "path": "tests/test_events_v3.py",
+    "sha256": "0341e047dfd26a8a7a9f74916c022672260eb3e19dd6cbe10ccb7627ce616f3c"
+  },
+  {
+    "path": "tests/test_extended_sampling.py",
+    "sha256": "06ad5c389313e69e183becd49ea5982eec33594a661ec2cd4eb197228d3a9623"
+  },
+  {
+    "path": "tests/test_fast_input.py",
+    "sha256": "11df0170a0b2b82cc9fe723fa9a43706484fd0f3349327fedbbbe582dbb26052"
+  },
+  {
+    "path": "tests/test_library.py",
+    "sha256": "46da09393756b1a90cfa3b38f596adcf1abb667c24c00771bdd6c80195947d32"
+  },
+  {
+    "path": "tests/test_live.py",
+    "sha256": "d9da15ce25e39032547d160f0b0fa5d9e02e619033b1e61b694b2d3c269b94e3"
+  },
+  {
+    "path": "tests/test_media.py",
+    "sha256": "99ae1629a30b5954422514d6dfa47d5275870300f959deafbddb4da986faf2c1"
+  },
+  {
+    "path": "tests/test_model_metadata.py",
+    "sha256": "a7314ec9a2385faa94d3407aabb341b693705a4036643ae1409fe9b5cbc46313"
+  },
+  {
+    "path": "tests/test_motion_filter.py",
+    "sha256": "bca63679f3abac76ceabdcef21f509fd703a72ab5f36134b0974e14194a2f17b"
+  },
+  {
+    "path": "tests/test_pipeline.py",
+    "sha256": "c28eb1bed1f6eb6c81dc5b019213660b74d51fcbe30ddd561abe11e00176772a"
+  },
+  {
+    "path": "tests/test_playback.py",
+    "sha256": "b2c248812a5d4bb97542ed4e498f9665e10750f316a69e519557c690a00f44c6"
+  },
+  {
+    "path": "tests/test_review_state.py",
+    "sha256": "5a54dee519185f14139bbe5b5aee55314120d1b8c590fd829062f510ffcf25a9"
+  },
+  {
+    "path": "tests/test_v7_fixes.py",
+    "sha256": "39afbda8365bde71cc3c458668f09f91cccb2469c2ef56865c97c99a33904a88"
+  },
+  {
+    "path": "tests/test_video_compatibility.py",
+    "sha256": "e731e1abc650bd138b92938afd07208d5bbd022fdce4aa2600a51b721f4f1b0c"
+  },
+  {
+    "path": "tools/audit_data.py",
+    "sha256": "f3ad0664717c955d20108ea412f2cd5143b5f90ba0a3efcb46e356b45526d4a2"
+  },
+  {
+    "path": "tools/audit_extended.py",
+    "sha256": "321b8585d812c63f0441c3cd858b8e81b13e1d63cb9467b4c97754f27f9a4b43"
+  },
+  {
+    "path": "tools/benchmark_playback.py",
+    "sha256": "52caef685da62b8816f1d2af02b9bab7bbc3dc38c90f4e2a801267c266e3ec95"
+  },
+  {
+    "path": "tools/build.py",
+    "sha256": "7ef5ee7d8b85aa66afb772cd8ceb18ef2d0b7b43be9264f64cd7dc44d3424352"
+  },
+  {
+    "path": "tools/download_openttgames.ps1",
+    "sha256": "248d800dbfb529b2f4cf9c2cf5fa500c1100f0cb3e7c78f6f210fa0ebecfb150"
+  },
+  {
+    "path": "tools/evaluate_extended_events.py",
+    "sha256": "00bb714d0ad705eaa83bf2a20bc1ecd42972594319a22b20a2fd8fd416348512"
+  },
+  {
+    "path": "tools/evaluate_holdout.py",
+    "sha256": "f2282f1d5f3c7247ce03c1f03ce95579db2839ced9aa716cc295db41d0d45a46"
+  },
+  {
+    "path": "tools/eval_holdout_local.py",
+    "sha256": "ed462a428b898a0247d463620eb0147cde1890752ed3f72d32f694446fbaf704"
+  },
+  {
+    "path": "tools/export_extended.py",
+    "sha256": "57c823811f7774dcaf250a4833f148babc7944b156dafbeaf6932ee537e1b44b"
+  },
+  {
+    "path": "tools/export_model.py",
+    "sha256": "b3538c857d39ed8f5beb6e58595a08297b26d202fe4457fd9fbe14f098c40751"
+  },
+  {
+    "path": "tools/export_table_model.py",
+    "sha256": "777a02ef64c5f778d4531c37e8af7882aefb872999dab11037df4221f665d490"
+  },
+  {
+    "path": "tools/fast_input.c",
+    "sha256": "fa0d8f9356397a3f8b3a0f06f36b6167453a8fed1de8000e8854f39334168dd1"
+  },
+  {
+    "path": "tools/inspect_reference.py",
+    "sha256": "9fc6de1a9cb02d27edff6e06bba952bf7e3ea7b4c86f76ad0b3232e4bc3d5f44"
+  },
+  {
+    "path": "tools/organize_videos.py",
+    "sha256": "e13ee9496c61cbb1743aa65169f96e84da750874ade689e0c1adb10e6f171809"
+  },
+  {
+    "path": "tools/prepare_extended.py",
+    "sha256": "e20c3246c03829d7c19dade0e45daddb8ffe030232f71b1bb008e2f75f633abb"
+  },
+  {
+    "path": "tools/prepare_reference.py",
+    "sha256": "edc448925dbe82a40ec68404409de094b8bfba5ab3497836226bb5a5ce23b8b1"
+  },
+  {
+    "path": "tools/prepare_success_training.py",
+    "sha256": "fd832a347eb8adbffc487d1f8f45a6f0a33a3940a3b959315f7b83ba027af6da"
+  },
+  {
+    "path": "tools/prepare_video_raw.py",
+    "sha256": "2cc50563847e55db382d4120a1032ad9fff8cfc129cd51d4350d47f4faf3e5df"
+  },
+  {
+    "path": "tools/quick_eval.py",
+    "sha256": "3f2031e740b5115d15a4b5e4ea781f06123288d270630bf390e77aad909c50f9"
+  },
+  {
+    "path": "tools/release.py",
+    "sha256": "285cc73b43739cc03f71e10d2a1a79d396f857eeac2a97508d7dccca3b2cc276"
+  },
+  {
+    "path": "tools/release_v2.py",
+    "sha256": "314a69994dcc59a104af855deba0066b92bd2e3a3e9c70b19c0b8975911682be"
+  },
+  {
+    "path": "tools/release_v3.py",
+    "sha256": "2af2c2c65256c47744bcb239fb656817cdaa274f3214cc3fedb9204779403042"
+  },
+  {
+    "path": "tools/release_v4.py",
+    "sha256": "7a8a7c7fe69f42c38ef8076fcd6d3b18d67921e4e053cc5a773783c6e2fc4646"
+  },
+  {
+    "path": "tools/rename_videos.py",
+    "sha256": "866b10ef1f9c4653c229f0a5887ff9d750cb0712f68dfa00bc75a1097a91d493"
+  },
+  {
+    "path": "tools/report_extended.py",
+    "sha256": "b1662d34e2f9520e81550f7983892579d00ebd40b0c8d9d983ee18d236ad20e8"
+  },
+  {
+    "path": "tools/smoke_app.py",
+    "sha256": "6548d506a37a28d1227c60b8a9e960f20142ed40f72ae6bb3164d83ea46855d9"
+  },
+  {
+    "path": "tools/train.py",
+    "sha256": "715d4c2f3cb98c93c75e50f900a1cb2fcfa7f72b8e67efada669a04c6603b2fa"
+  },
+  {
+    "path": "tools/train_extended.py",
+    "sha256": "9945739eb736859cf6b385874cbd1a32abe29641e30b112bd3aed93436853afd"
+  },
+  {
+    "path": "tools/validate_extended_onnx.py",
+    "sha256": "9f7e77ff360ff0cd9dc07e6195192aca75740374d3f67fc1261a1cf88aed7d3b"
+  },
+  {
+    "path": "tools/verify_camera_ui.py",
+    "sha256": "9fb7c4b0f13c28f5f1a836c24a5b4dd5ea85f6b30328f1283533743dda249fa8"
+  },
+  {
+    "path": "tools/verify_decode_ui.py",
+    "sha256": "f9b43eb48ec717689fdfcdce8b696a47ecbedcd25a553c1f93ff9ff74254785e"
+  },
+  {
+    "path": "tools/verify_distribution_exports.py",
+    "sha256": "88fedb358358ab3fa9671354cc45a3e8325492bbf78673f6ea74830621ad9f9e"
+  },
+  {
+    "path": "tools/verify_extended_data.py",
+    "sha256": "4508e9b8e57561526c582269683e531f5076523e0cb3752f7a7ae98c975cce4e"
+  },
+  {
+    "path": "tools/verify_interactive_review.py",
+    "sha256": "4298c92efa3ff47e05e1fa15952e9061044e7843665fb200e797949563a03e72"
+  },
+  {
+    "path": "tools/verify_long_v2.py",
+    "sha256": "a07f26168bf7b2277ac496f1ee1b825af3c3f440fe958a59187f2607e7f7b272"
+  },
+  {
+    "path": "tools/verify_long_v3.py",
+    "sha256": "576c94e031402424ee14836f16d254e497838583850d77f528572795bcc8ac3c"
+  },
+  {
+    "path": "tools/verify_model_profiles.py",
+    "sha256": "1c0b350284ed72d6c8778d11178b6d89787b7ce468cae66c4542f2540df6662e"
+  },
+  {
+    "path": "tools/verify_review_controls.py",
+    "sha256": "511a83f77de4f6876e1fcebf1829f5f182f5ebbfdca06f4cf15af446b6690447"
+  },
+  {
+    "path": "tools/verify_static_v009.py",
+    "sha256": "fd94daa0026b95911a79af40a567edcad2e5d70bbd2897bcee1c4cb46bc5e1f7"
+  },
+  {
+    "path": "tools/verify_table_panel.py",
+    "sha256": "1504d48342f506fc1e8b9aab44ee03330b1baaec93ff312536db7b8c311b6249"
+  },
+  {
+    "path": "tools/verify_v2.py",
+    "sha256": "0588691dc1802a6e107c87851c5a5b56330cc126cec63ee59e0ec8fd060ddc2c"
+  },
+  {
+    "path": "tools/verify_v3.py",
+    "sha256": "aa587578193e1e7cddeb3c15e2756bc6e41f7fbe06a192fc381ee625c1fb484c"
+  },
+  {
+    "path": "tools/verify_v7.py",
+    "sha256": "93b1897cdeb5d24a14723055cf0c496821ae34fcff3d6fec1f92e3dd23ab1c3c"
+  },
+  {
+    "path": "tools/verify_zoom.py",
+    "sha256": "6913b7fc478e68217f7c116e2d976afd81c0c12a92ea9cb4f69dfee49a81430d"
+  },
+  {
+    "path": "tools/visualize_extended.py",
+    "sha256": "4134bc27e1e6faa028e35c00f7e95f0d506fb673e9b04d731e58bb600fc48c5f"
+  },
+  {
+    "path": "models/blurball.yaml",
+    "sha256": "02378c1e76290640a4e200376e4d17052e39a3afeae8a7f7cc59bff8c1f33925"
+  },
+  {
+    "path": "models/blurball_pretrained.pt",
+    "sha256": "3545206c7155194ea654899d33579c88c9fd8e82c632cbdbae3b0c0ec3f2985f"
+  },
+  {
+    "path": "models/detector.json",
+    "sha256": "2c8bd5d62b037bfe56abff26c39f7d192405ee14c2a55ace293624680288579f"
+  },
+  {
+    "path": "models/detector.onnx",
+    "sha256": "9fab249cefea126b6ba0c23e5ead92b4c852962f46f3ba1312ed7c78def4c04a"
+  },
+  {
+    "path": "models/detector_extended.json",
+    "sha256": "bb3787e7440a2b70a1f5d9d198f09cd3f14ab6a01b39de34d677809a1d846a74"
+  },
+  {
+    "path": "models/detector_extended.onnx",
+    "sha256": "6f95ee76b60ec1e33564b0970e7a50b2e36b8458066a2fd77168f6812e91ab34"
+  },
+  {
+    "path": "models/model_info.json",
+    "sha256": "bce54c507f8724789216afec346404f52d0c15a02ee09f1f164259321d69ad75"
+  },
+  {
+    "path": "models/table.json",
+    "sha256": "970afbac999dfc47cd395f83f62341253baab73709b85cdaada4f06105cfc081"
+  },
+  {
+    "path": "models/table.onnx",
+    "sha256": "e513abc92065eadd6806bafdec1118e050f423bd4891141f10b18ec0f571cb5c"
+  },
+  {
+    "path": "assets/chevron-down.svg",
+    "sha256": "3bf6cc4856c59d9ce476d1d9d55db380f8ee6298309a0566043d71a3db8a4e0b"
+  },
+  {
+    "path": "assets/chevron-up.svg",
+    "sha256": "c5525aa37217e30cd02f7539b91c9abe0e12553b19fbcf9fc3529a690230e353"
+  },
+  {
+    "path": "assets/ExtendedOpenTTGames_LICENSE.txt",
+    "sha256": "2c34c8573a8acdabd227d57a1cecefe8659337c0b3b878d9f2d35d8edbce0b50"
+  },
+  {
+    "path": "assets/fast_input.dll",
+    "sha256": "005ea6a2096d45a48727907c2bc1e5d73c09d50eb6db334cbe51fc2b1955328f"
+  },
+  {
+    "path": "app.py",
+    "sha256": "ea7d9212a349b72fa1f942520dd7c47d7209ad1f23f2c77dd7dd7796731774f0"
+  },
+  {
+    "path": "pytest.ini",
+    "sha256": "c809c969ec7e11b9ff37784e9c6fcc0b7c5148d168e18b05aed797e03fbd6ead"
+  },
+  {
+    "path": "requirements-runtime.txt",
+    "sha256": "9f3751b74c290c0bfbb5bd41059dfb67f6eabb87ac980ebfb18574d6e3aca70b"
+  },
+  {
+    "path": "requirements-training.txt",
+    "sha256": "b93e802b3da4bd7f9d685b401e02214559219b3abe398e1e359aff199dab4830"
+  },
+  {
+    "path": "SOURCES.md",
+    "sha256": "229aee2be0db3e8875bfe2d3e5f3b4198407260dcd7efc3d166d2a010dbeb65f"
+  },
+  {
+    "path": "docs/desktop-history.md",
+    "sha256": "af42775541dec418a9328c923cb6de91056beff84d168ebbe982d01ff42d23e7"
+  },
+  {
+    "path": "competition/Dockerfile",
+    "sha256": "0cdc318db8f9a3af1b9e57fad53710b60c5aeadc3f4507c25b2fbfb7a026467c"
+  },
+  {
+    "path": "competition/score_public.py",
+    "sha256": "92fb5d968e0f4ba0dc08b8aabee2097f829aae09a975058a9ded62e3fc59a29a"
+  },
+  {
+    "path": "competition/双赛题使用说明.md",
+    "sha256": "f6158c5bfd24dd6e3394e11229c4dd1477b292f009f1ed253794419d112adbca"
+  },
+  {
+    "path": "competition/participant/README.md",
+    "sha256": "b277e0708690e80bc927aee43e172ffc5f43f3e8316bebec5589fd76d3541b86"
+  },
+  {
+    "path": "competition/participant/run_all.sh",
+    "sha256": "325472dfd1c25ad10029f6a51a6878b9eeef8cf78813576af5179abbaf4aa3d3"
+  },
+  {
+    "path": "competition/participant/basketball/.integrity.json",
+    "sha256": "ff29f4d6f55371a77c6f80cbaec626fa3cccb48bafac5c798928032e1eb12fa3"
+  },
+  {
+    "path": "competition/participant/basketball/integrity.py",
+    "sha256": "32f9c278f7aa56084bed5602baacebd51b1157aa76b930df903cec362365c095"
+  },
+  {
+    "path": "competition/participant/basketball/run.py",
+    "sha256": "060a0f852b9600eec87f0d748fa60d3806b9ea85483f386856033327983d5522"
+  },
+  {
+    "path": "competition/participant/basketball/run.sh",
+    "sha256": "3f85289b6cd01fea18fa7f081608d162f8bfb9157efae7ff6e454c70b24e9ae4"
+  },
+  {
+    "path": "competition/participant/basketball/validate.py",
+    "sha256": "9a08f503392ea83449840a00bbed0e1a30dc9b4bf42afb58f2e8a02a91fab8f0"
+  },
+  {
+    "path": "competition/participant/pingpang/.gitignore",
+    "sha256": "0e0b8c4ff94375069ef5650250af61a14f273ddf2608084c6d5d5ad9195a4e95"
+  },
+  {
+    "path": "competition/participant/pingpang/.integrity.json",
+    "sha256": "4d033f81c720df1d312e8fc3a6a6d5410d11495ce27842f0b65e977dccf6aab3"
+  },
+  {
+    "path": "competition/participant/pingpang/integrity.py",
+    "sha256": "e845148739299a5bb2630e4b65cf8c16c4e3fdfbb6a974eb13d45dd4a2d3b1d9"
+  },
+  {
+    "path": "competition/participant/pingpang/run.py",
+    "sha256": "65c34a859fa742d5dd8d40aa68e3d186a9978129017eded55a90947a1cc6af84"
+  },
+  {
+    "path": "competition/participant/pingpang/run.sh",
+    "sha256": "0a0a324edc9d70e7b86ce4e426a25e15fae748617411db602ed4bc7dba0084c4"
+  },
+  {
+    "path": "competition/participant/pingpang/validate.py",
+    "sha256": "371317dcabebd76cbbd26d26e02131a16ec93722de938da364cd9a76eebcac79"
+  },
+  {
+    "path": "competition/participant/basketball/core/dataset.py",
+    "sha256": "1352e57e563c0ad1cb1c0143976dc9ba32cf5fbf1a7c8fe80a0e76ee1ba952f3"
+  },
+  {
+    "path": "competition/participant/basketball/core/decoder.py",
+    "sha256": "ed3dfb425352c8422dd720d4c11280a30fbad58bc0b14fee2c7553c393134e91"
+  },
+  {
+    "path": "competition/participant/basketball/core/logging_utils.py",
+    "sha256": "0362c7d583a36d1988a9135e0183a518595c1b8a2e1b6af4557bf556df776cf8"
+  },
+  {
+    "path": "competition/participant/basketball/core/runner.py",
+    "sha256": "544bffe61bffc6a922901dade1b29dcd90f91a6d2d455e8b4add5ae740039421"
+  },
+  {
+    "path": "competition/participant/basketball/core/trt.py",
+    "sha256": "e68d2c4572981de0187909e6b5559038362a8a31b44c65ca26cdfbfb30fb66ae"
+  },
+  {
+    "path": "competition/participant/basketball/core/types.py",
+    "sha256": "dc28a2925876c49910b3dd33ccdb2ea315f31149859b0c0b24e913f7d981da3d"
+  },
+  {
+    "path": "competition/participant/basketball/core/writer.py",
+    "sha256": "2a0b69f3819d20a1e9ad856f4fadb6d4cffa0252d7318fd9a5f84e251b24ede0"
+  },
+  {
+    "path": "competition/participant/basketball/core/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/basketball/participant/base_solution.py",
+    "sha256": "447dd39a4f8adfea834759a1c29a29d0d711537dfdbb195eb72b0d66e097fdac"
+  },
+  {
+    "path": "competition/participant/basketball/participant/player_detector.py",
+    "sha256": "2a84cf5f0f7d79937837f07a0d954794ef1cf6ed782efaffa94554751222635b"
+  },
+  {
+    "path": "competition/participant/basketball/participant/solution.py",
+    "sha256": "9f0cf810ba07965255a543cc454e667321837e2787cb50bde20985bfaf2c3e54"
+  },
+  {
+    "path": "competition/participant/basketball/participant/tracker.py",
+    "sha256": "67844419518fd07e516081cb99cae110b2488ff8d8ef9b79bc937f1da47f61ff"
+  },
+  {
+    "path": "competition/participant/basketball/participant/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/basketball/public_data/gt_public.jsonl",
+    "sha256": "283ce9e5713ea1621f6c513990e3e16d41d7048d65aab0afc960404bd6e0dc1f"
+  },
+  {
+    "path": "competition/participant/basketball/public_data/manifest.json",
+    "sha256": "588cc1c312d678c76b903eb3ff89c2f5d380cdc1da54b29bed8b9b4d1a440487"
+  },
+  {
+    "path": "competition/participant/basketball/scripts/check_env.py",
+    "sha256": "d1f1c43596b052b50cff355414989b50eb9d60e7e653f250c523b2e20002faef"
+  },
+  {
+    "path": "competition/participant/basketball/scripts/check_solution.py",
+    "sha256": "896a8d8981452546f1f3dd4fa1b7a6893c462867ffe953054c720877a94c0a3c"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/association.py",
+    "sha256": "309d794ce13af8c67dba47732f6d74fbb0ae1ad464f95cb311c1409584c223f3"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/fast_detector.py",
+    "sha256": "baa52c3b69474731f9fd3817c3b6509e78f1619de04c21f613cdf4b1e1a0edde"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/player_basis.py",
+    "sha256": "9388c6c06fa64eb00ad99be2c65031ca06ced89ab5848254e97665f7e628ec3e"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/player_features.py",
+    "sha256": "7c752b93168cf2016b3a51fd399623ce70b1c2d0e3cb2a8797f04f1c39d92a29"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/player_filter_v2.npz",
+    "sha256": "68fe00dea65cde990aa5b477dd3d309e8abc9721cbeb31b0adb54de058c440d5"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/runtime.py",
+    "sha256": "bb54e9e11ea8232ef1efd041c3313ce5bb0597c2c2a93c7a288eeb1386f1a5bd"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/scene.npz",
+    "sha256": "1a62ed82a203a054f6fa727fba97e7c3cf15bf4c5fc9a95c180c234fb334bfc4"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/scene_features.py",
+    "sha256": "45b651eea10a1d2aa2260b7048bcc01053763b219be23400dc1ecfdff22f7152"
+  },
+  {
+    "path": "competition/participant/basketball/participant/configs/scorebug.py",
+    "sha256": "e65771e7820b0cee129a618fc73b552a1ff4f61aac6a5e06b76b808df0172c22"
+  },
+  {
+    "path": "competition/participant/basketball/participant/models/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/basketball/participant/weights/player.onnx",
+    "sha256": "e64d60e76524a629adb0d222d03d132bf66c05440bd4251a02869d56dc05b3b4"
+  },
+  {
+    "path": "competition/participant/basketball/participant/weights/README.md",
+    "sha256": "92a78a9475201e8e5d37a55b225832c3d09c788ff0e2b91ce68cf4450254f6ce"
+  },
+  {
+    "path": "competition/participant/pingpang/core/dataset.py",
+    "sha256": "1352e57e563c0ad1cb1c0143976dc9ba32cf5fbf1a7c8fe80a0e76ee1ba952f3"
+  },
+  {
+    "path": "competition/participant/pingpang/core/decoder.py",
+    "sha256": "ed3dfb425352c8422dd720d4c11280a30fbad58bc0b14fee2c7553c393134e91"
+  },
+  {
+    "path": "competition/participant/pingpang/core/logging_utils.py",
+    "sha256": "0362c7d583a36d1988a9135e0183a518595c1b8a2e1b6af4557bf556df776cf8"
+  },
+  {
+    "path": "competition/participant/pingpang/core/runner.py",
+    "sha256": "6bc5b8a97e971855215817c3cf2980cf1d9c274c1a28c7dcfcd6212e65588602"
+  },
+  {
+    "path": "competition/participant/pingpang/core/trt.py",
+    "sha256": "e68d2c4572981de0187909e6b5559038362a8a31b44c65ca26cdfbfb30fb66ae"
+  },
+  {
+    "path": "competition/participant/pingpang/core/types.py",
+    "sha256": "933fa4120c2a820aee18d333b314ba31ac1cc6f1f3b6476895f480477b91d58f"
+  },
+  {
+    "path": "competition/participant/pingpang/core/writer.py",
+    "sha256": "4d0d41688abb353609310217d55c8685c94f88d81dae1f9c0829dc082c8f60cf"
+  },
+  {
+    "path": "competition/participant/pingpang/core/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/ball_detector.py",
+    "sha256": "212c050ba2701fc33085eacb532be9a5eb286736a3dc454d0c3b1d391d62bd3b"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/base_solution.py",
+    "sha256": "b62654aeb39d96c63ee237cc9fba342d060530066fd5c3512909f5a0689b6dc3"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/solution.py",
+    "sha256": "77e5d2b8273c9e862a52632f128d20d9dd92ee957225ad806005f6af262d7707"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "competition/participant/pingpang/public_data/gt_public.jsonl",
+    "sha256": "f015dffd8d2f4fc2c56c18d39174592105e298cb12c647fcd43a9c94c15adb98"
+  },
+  {
+    "path": "competition/participant/pingpang/public_data/manifest.json",
+    "sha256": "2e1eb4fb76efbb71fe80d0307ee4bbe6d7b412d8d464d07c25721ddb56f5c5e4"
+  },
+  {
+    "path": "competition/participant/pingpang/scripts/check_env.py",
+    "sha256": "4690bc8f58cd7340c665055bc3711623ce8faf65cd4136cf8431002ce4dd6f20"
+  },
+  {
+    "path": "competition/participant/pingpang/scripts/check_solution.py",
+    "sha256": "cb3e72c860c907e38856ab32c49017c13b555685a41e03cc3fcfcfb74d17501d"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/configs/landings.py",
+    "sha256": "a0d0c134f2dc6c19a6969bc7c810a59ffa359485b06e61ed609d5ffa5ff7c354"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/configs/runtime.py",
+    "sha256": "bb54e9e11ea8232ef1efd041c3313ce5bb0597c2c2a93c7a288eeb1386f1a5bd"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/weights/ball.onnx",
+    "sha256": "a5a467f134ae7e2fc5679e395dca9af12b6dfcc65cee51e633c465beb0c61543"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/weights/table.onnx",
+    "sha256": "e513abc92065eadd6806bafdec1118e050f423bd4891141f10b18ec0f571cb5c"
+  },
+  {
+    "path": "competition/participant/pingpang/participant/weights/TT3D_LICENSE.txt",
+    "sha256": "2999dadcbdb2bdf89b0ea3a8684a29662fa75ddc14f7d871ef33e464077c7053"
+  },
+  {
+    "path": "docs/validation-v2.md",
+    "sha256": "7e445d75f92293d849948f4e5faa2d2bcea1d2e28f081ad5b52e6c71e9182189"
+  }
+]

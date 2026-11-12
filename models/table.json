@@ -1,0 +1,8 @@
+{
+  "source": "https://github.com/cogsys-tuebingen/tt3d",
+  "checkpoint": "weights/table_segmentation.ckpt",
+  "architecture": "UnetPlusPlus, timm-regnety_002",
+  "input": "RGB float 0..255, 1x3x320x640; upstream preprocessing",
+  "max_abs_error": 7.05718994140625e-05,
+  "segmentation_models_pytorch": "0.3.4"
+}
